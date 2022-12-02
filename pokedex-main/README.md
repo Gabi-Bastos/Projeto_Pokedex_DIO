@@ -1,3 +1,4 @@
-# Pokedex
-Pokedex creada con pokeapi
+ #Trilha JS Developer - Pokedex
+ 
+
 
